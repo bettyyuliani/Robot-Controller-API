@@ -1,0 +1,12 @@
+﻿
+        public {{class}}()
+        {
+
+        }
+
+        public {{class}}({{#each properties}}{{property-type}} {{property-name}}{{#if @last}}{{else}}, {{/if}}{{/each}})
+        {
+            {{#each properties}}
+            this.{{property-name}} = {{property-name}};
+            {{/each}}
+        }

@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{20509A1E-B520-49EB-A61E-82EDE78A7DAB}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.robot-controller-api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Authentication/BasicAuthenticationHandler.cs">
+    <Files>
+      <File FileName="RobotCommand.cs" Line="12" Column="28" />
+      <File FileName="Map.cs" Line="34" Column="20" />
+      <File FileName="Program.cs" Line="21" Column="87" />
+      <File FileName="Controllers/RobotCommandsController.cs" Line="29" Column="20" />
+      <File FileName="Controllers/MapsController.cs" Line="16" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Persistence/MapDataAccess.cs" Line="4" Column="20" />
+      <File FileName="Persistence/RobotCommandDataAccess.cs" Line="125" Column="6" />
+      <File FileName="Persistence/UserRepository.cs" Line="52" Column="7" />
+      <File FileName="Persistence/IRepository.cs" Line="20" Column="1" />
+      <File FileName="Controllers/UsersController.cs" Line="79" Column="9" />
+      <File FileName="UserModel.cs" Line="23" Column="27" />
+      <File FileName="LoginModel.cs" Line="2" Column="1" />
+      <File FileName="Authentication/BasicAuthenticationHandler.cs" Line="23" Column="8" />
+      <File FileName="../../../../Week 3/3.4/task-resources/robot-controller-api/Persistence/RobotCommandRepository.cs" Line="1" Column="1" />
+      <File FileName="../../../../Week 3/3.4/task-resources/robot-controller-api/Persistence/RobotContext.cs" Line="1" Column="1" />
+      <File FileName="../../../../Week 3/3.4/task-resources/robot-controller-api/Persistence/MapRepository.cs" Line="27" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="robot-controller-api" expanded="True">
+            <Node name="robot-controller-api" expanded="True">
+              <Node name="Authentication" expanded="True">
+                <Node name="BasicAuthenticationHandler.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Persistence" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>map</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

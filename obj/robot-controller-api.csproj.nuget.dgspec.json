@@ -1,0 +1,111 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bettyyuliani/Documents/SIT331/Week 4/4.2/task-resources/robot-controller-api/robot-controller-api.csproj": {}
+  },
+  "projects": {
+    "/Users/bettyyuliani/Documents/SIT331/Week 4/4.2/task-resources/robot-controller-api/robot-controller-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bettyyuliani/Documents/SIT331/Week 4/4.2/task-resources/robot-controller-api/robot-controller-api.csproj",
+        "projectName": "robot-controller-api",
+        "projectPath": "/Users/bettyyuliani/Documents/SIT331/Week 4/4.2/task-resources/robot-controller-api/robot-controller-api.csproj",
+        "packagesPath": "/Users/bettyyuliani/.nuget/packages/",
+        "outputPath": "/Users/bettyyuliani/Documents/SIT331/Week 4/4.2/task-resources/robot-controller-api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bettyyuliani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "EntityFrameworkCore.Scaffolding.Handlebars": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "FastMember.Signed": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
